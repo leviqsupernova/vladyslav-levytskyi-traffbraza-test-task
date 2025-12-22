@@ -1,3 +1,5 @@
+# **Egg Secret v1.0 Mini-Charter**
+
 **ID:** CH02  
 **Date:** 22.12.2025  
 **Author:** Vladyslav Levytskyi  
