@@ -62,8 +62,8 @@ Although the test was functional, a sheer number of UI/UX and product observatio
 - 'New round starts after' is grammatically incorrect in the given context
 - Placement of the bonus related button and container in the settings seemed inappropriate. It was also unclear why they change color upon touch, but no action or notification is triggered
 - The buttons throughout the game use inconsistent capital letter convention (e.g., 'Highest Score' and 'Rate us')
-- Fonts, UI elements, margins have inconsistent, mockup styling. 
-- Localization may require deep revision.
+- Fonts, UI elements, margins have inconsistent, mockup styling
+- Localization may require deep revision
 
 **Product:**
 
