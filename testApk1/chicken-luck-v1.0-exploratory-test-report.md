@@ -26,7 +26,7 @@
 
 ---
 
-**Defects found**
+**Defects Found**
 
 1. **Multiplier not reflected on the screen upon auto cashout (00:13-00:18)**  
 
