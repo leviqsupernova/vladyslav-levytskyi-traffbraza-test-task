@@ -1,3 +1,5 @@
+# **Chicken Luck v1.0 Exploratory Test Report**
+
 **ID:** ET01  
 **Test Owner:** Vladyslav Levytskyi  
 **Test Executor:** Vladyslav Levytskyi  
