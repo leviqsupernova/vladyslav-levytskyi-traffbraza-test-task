@@ -23,7 +23,7 @@ The testing included multiple core user paths and flows on the website. It consi
 
 ---
 
-**Defects found**
+**Defects Found**
 
 1. **Log in via Google account is blocked (00:22-00:24)**   
 
