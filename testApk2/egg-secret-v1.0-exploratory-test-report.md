@@ -27,7 +27,7 @@
 
 ---
 
-**Defects found**
+**Defects Found**
 
 
 1. **Inconsistent number of chickens per round, up to no chickens at all (00:04-00:06, 00:33-00:35, 00:29-00:32)**  
