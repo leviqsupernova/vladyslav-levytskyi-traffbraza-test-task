@@ -5,3 +5,5 @@ The templates and granularity were adjusted to fit he context - simple explorato
 The websites tests were too extensive for a more granular test table, so a summary was chosen to outline the actions performed.  
 
 The focus was on functionality from the end-user perspective, yet multiple observations for other types of issues (performance, compatibility, UI/UX, business perspective) were also reported.  
+
+![done meme](https://github.com/leviqsupernova/vladyslav-levytskyi-traffbaza-test-task/blob/master/done.jpg)
