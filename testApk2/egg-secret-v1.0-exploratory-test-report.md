@@ -1,3 +1,5 @@
+# **Egg Secret v1.0 Exploratory Test Report**
+
 **ID:** ET02  
 **Test Owner:** Vladyslav Levytskyi  
 **Test Executor:** Vladyslav Levytskyi  
